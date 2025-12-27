@@ -1,2 +1,8 @@
-# FLexa---A-Funclexa-Project
-FLexa is an advanced AI voice assistant web application built with React, Web Speech API, and Groq LLM. It supports English and Hindi voice commands, answers general questions, and performs real-world tasks like opening apps, searching the web, playing media, and browser navigation with smooth voice interaction.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
